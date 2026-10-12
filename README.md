@@ -154,7 +154,7 @@ flowchart TD
 ## 🚀 Installation
 
 ### Option 1: Direct APK Download
-1. Download the latest **`MeTube.apk`** from the [**Releases**](https://github.com/CLPUYIR/metube/releases) tab.
+1. Download the latest **[MeTube.apk (v1.0.0)](https://github.com/CLPUYIR/metube/releases/download/v1.0.0/MeTube.apk)** directly or check the [**Releases**](https://github.com/CLPUYIR/metube/releases) tab.
 2. Open the downloaded file on your Android device (Android 8.0 Oreo or higher).
 3. If prompted, enable **"Install from unknown sources"** for your browser or file manager.
 4. Tap **Install** and launch MeTube. Enjoy ad-free streaming and background play with zero setup!
