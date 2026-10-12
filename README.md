@@ -86,8 +86,8 @@ Most video and music platforms restrict essential features like **background pla
 | Feature | Official YouTube App | YouTube Premium | MeTube |
 | :--- | :---: | :---: | :---: |
 | **Price** | Free with Ads | $13.99 / month | **100% Free Forever** |
-| **Terms & Conditions Required** | ⚠️ Mandatory | ⚠️ Mandatory | ❌ **None (Zero Agreements)** |
-| **Account / Sign-in Required** | ⚠️ Forced | ⚠️ Forced | ❌ **No Account Needed** |
+| **Terms & Conditions Required** | ⚠️ Mandatory | ⚠️ Mandatory |  **None (Zero Agreements)** |
+| **Account / Sign-in Required** | ⚠️ Forced | ⚠️ Forced |  **No Account Needed** |
 | **In-Stream Video Ads** | Heavy (Up to 2+ ads) | None | **Completely Blocked** |
 | **Banner & Upsell Popups** | Constant | Reduced | **Completely Blocked** |
 | **Background Audio Playback** | ❌ Blocked | ✅ Allowed | ✅ **Supported (Screen on/off)** |
