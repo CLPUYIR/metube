@@ -1,0 +1,6 @@
+{
+  "name": "MeTube",
+  "description": "Background music streaming and video player with ad shielding and media session controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
